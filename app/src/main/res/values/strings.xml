@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">UTS APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Books Title -->
+    <string name="head_1">The Lost Hero</string>
+    <string name="head_2">I Kill Giants</string>
+    <string name="head_3">A Game Of Thrones</string>
+    <string name="head_4">Harry Potter and the Prisoner of Azkaban</string>
+    <string name="head_5">The Lord of the Rings</string>
+    <string name="head_6">Jurassic Park</string>
+    <string name="head_7">The Hunger Games</string>
+    <string name="head_8">I, Robot</string>
+    <string name="head_9">Las aventuras de Sherlock Holmes</string>
+    <string name="head_10">The strange case of Dr. Jekyll and Mr. Hyde</string>
+
+    <!-- Books Author -->
+    <string name="a1">by Rick Riordan</string>
+    <string name="a2">by Joe Kelly</string>
+    <string name="a3">by George R.R. Martin</string>
+    <string name="a4">by J. K. Rowling</string>
+    <string name="a5">by J.R.R. Tolkien</string>
+    <string name="a6">by Michael Crichton</string>
+    <string name="a7">by Suzanne Collins</string>
+    <string name="a8">by Isaac Asimov</string>
+    <string name="a9">by Arthur Conan Doyle</string>
+    <string name="a10">by Robert Louis Stevenson</string>
+
+    <!-- Books Genre -->
+    <string name="g1">Adventure</string>
+    <string name="g2">Art &amp; Photography</string>
+    <string name="g3">Biography</string>
+    <string name="g4">Business &amp; Money</string>
+    <string name="g5">Cooking</string>
+    <string name="g6">Crafts, Hobbies &amp; Home</string>
+    <string name="g7">Detective &amp; Mystery</string>
+    <string name="g8">Dystopia</string>
+    <string name="g9">Education &amp; Teaching</string>
+    <string name="g10">Fantasy</string>
+    <string name="g11">Health &amp; Fitness</string>
+    <string name="g12">Historical</string>
+    <string name="g13">Horror</string>
+    <string name="g14">Humor &amp; Entertainment</string>
+    <string name="g15">Law &amp; Criminology</string>
+    <string name="g16">Motivational / Inspirational</string>
+    <string name="g17">Politics &amp; Social Sciences</string>
+    <string name="g18">Religion &amp; Spirituality</string>
+    <string name="g19">Romance</string>
+    <string name="g20">Science Fiction</string>
+    <string name="g21">Thriller</string>
+</resources>
